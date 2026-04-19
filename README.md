@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou José Werbeson 👋</h1>
+<h1 align="center">Olá, eu sou José Werbeson </h1>
 
 <h3 align="center">Desenvolvedor Full Stack | Java · C# · Kotlin · Swift</h3>
 
